@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+psycopg2-binary
+pydantic
+requests
+apscheduler
+google-generativeai
+python-dotenv
+groq
