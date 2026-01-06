@@ -73,6 +73,6 @@ This project is a private collection, crafted for demonstration of advanced soft
 <br>
 <center>
 
-### Made with love by Qamer Hassan ❤️
+### Made with ❤️ by Qamer Hassan 
 
 </center>
